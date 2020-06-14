@@ -2,13 +2,13 @@
 
 | Question | Hint | 
 |--|--|
-| how long do you know them for ?| 
+| How did you guys meet and how long do you know them for ?| 
 | How long did it take to close the house ? |
-| did you negotiate ?  |
-| did you do home inspection ? |
+| Did the Realtor negotiate ? |
+| Did he provide you with home inspection agent and a lawyer for the process? |
 | Positive thing ? |
 | Thing that could have been better ?|
 
 
 
-TODO: Come up with a judgement matrix
+##### TODO: Come up with a judgement matrix
